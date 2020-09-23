@@ -1,8 +1,8 @@
-# markey-box
+# CastenForCongress Vote-By-Mail Drop Box Location Finder
 
-Massachusetts dropbox location finder for Ed Markey.
+IL CD 06 dropbox location finder for Sean Casten
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and based on Massachusetts Senate candidate Ed Markey's campaign source code.
 
 ## Local Development
 
@@ -50,7 +50,7 @@ You'll likely need a few hours from a frontend developer to make the changes nec
 
 ## Deployment
 
-To save time for the Ed Markey campaign, we lazily reused our existing Heroku account and just made a quick Express server to serve a static site. However, this site could easily be deployed with [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/), or any other static site provider.
+The Ed Markey campaign saved time by reusing their existing Heroku account and just made a quick Express server to serve a static site. However, this site could easily be deployed with [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/), or any other static site provider.
 
 To create a static build, just run the following,
 
