@@ -63,7 +63,7 @@ export default function Search(props) {
             id="search"
             name="search"
             aria-label="Enter your city or town"
-            placeholder="e.g., “Cambridge”"
+            placeholder="e.g., “Downers Grove”"
             className="search-input"
             value={query}
             onChange={onChange}
