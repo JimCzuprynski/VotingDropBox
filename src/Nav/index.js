@@ -10,7 +10,7 @@ export default function Nav() {
     <nav className="nav">
       <div className="nav-container">
         <a href="https://edmarkey.com/">
-          <img className="logo" src="https://ed-markey-supporter-photos.s3.amazonaws.com/logo.png" alt="Ed Markey For Senate 2020 logo" />
+          <img className="logo" src="https://sean-casten-supporter-photos/logo.png" alt="Sean Casten for Congress 2020 logo" />
         </a>
         {!!town && <Search small />}
       </div>
