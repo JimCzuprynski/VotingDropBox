@@ -1,6 +1,6 @@
 # CastenForCongress Vote-By-Mail Drop Box Location Finder
 
-IL CD 06 dropbox location finder for Sean Casten
+<b>IL CD 06 dropbox location finder for Sean Casten</b>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and based on Massachusetts Senate candidate Ed Markey's campaign source code.
 
