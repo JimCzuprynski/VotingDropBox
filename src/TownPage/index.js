@@ -83,7 +83,7 @@ export default function TownPage() {
         )}
         <div className="info-group">
           <h3>share this with your friends & family</h3>
-          <p>Make sure everyone you know is able to safely vote early for Ed Markey.</p>
+          <p>Let's insure everyone you know is able to safely vote early for Sean Casten.</p>
           <div className="share">
             <a target="_blank" rel="noopener noreferrer" href={facebookLink}>
               <FacebookIcon />
@@ -96,7 +96,7 @@ export default function TownPage() {
             </button>
           </div>
         </div>
-        <img className="town-cover" src={cover} alt="Ed Markey casting his ballot at a polling site" />
+        <img className="town-cover" src={cover} alt="Sean Casten casting his ballot at a polling site" />
       </div>
       <Footer />
     </React.Fragment>
